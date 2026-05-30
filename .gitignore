@@ -1,0 +1,11 @@
+# Entorno virtual
+env/
+
+# Archivos varios no necesarios para la ejecución
+documents/
+
+# Llaves secretas o datos sensibles
+.env
+
+# Archivos temporales de python
+__pycache__/
